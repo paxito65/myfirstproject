@@ -1,0 +1,2 @@
+Rajout de texte dans le fichier
+Et une deuxième ligne!
